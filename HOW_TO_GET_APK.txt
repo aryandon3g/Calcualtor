@@ -1,0 +1,24 @@
+HOW TO GET YOUR APK FILE
+========================
+
+I have prepared all the source code for your Android App in this folder:
+c:\Users\Krishna Don\Desktop\calculator\android_src
+
+Because this computer does not have "Android Studio" installed, I cannot create the final .apk file here.
+You must do the final step:
+
+1. Download & Install Android Studio
+   https://developer.android.com/studio
+
+2. Open Android Studio
+   - Click "Open"
+   - Select the "android_src" folder inside "calculator" on your Desktop.
+
+3. Build the App
+   - Wait for it to load.
+   - Click the Green "Play" button at the top.
+   - Connect your phone with USB to install it directly.
+   - OR go to "Build > Build Bundle(s) / APK(s) > Build APK(s)".
+
+The APK file will be generated in:
+android_src\app\build\outputs\apk\debug\app-debug.apk
